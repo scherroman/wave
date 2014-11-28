@@ -1,0 +1,5 @@
+iOS app using the Multi-Peer connectivity framework to beam wikipedia webpages to your phone without an internet or cellular connection (i.e. Airplane mode) from others around you who do have a connection.
+
+Ugly code, thrown together in under a day as a mere proof of conecept.
+
+However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
