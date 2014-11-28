@@ -3,3 +3,5 @@ First iOS app using the Multi-Peer connectivity framework to beam wikipedia webp
 Ugly code, thrown together in under a day as a mere proof of concept.
 
 However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
+
+Created with contributions from two other team members.
