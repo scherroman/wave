@@ -4,4 +4,4 @@ Ugly code, thrown together in under a day as a mere proof of concept.
 
 However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
 
-Created with contributions from two other team members.
+Created alongside two other team members.
