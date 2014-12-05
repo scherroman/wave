@@ -1,4 +1,4 @@
-First iOS app using the Multi-Peer connectivity framework to beam Wikipedia webpages to your phone without an internet or cellular connection (i.e. in Airplane mode) from others around you who do have a connection.
+First iOS app using the Multi-Peer connectivity framework to access Wikipedia webpages on your phone without an internet or cellular connection (i.e. in Airplane mode) from others around you who do have a connection.
 
 Ugly code, thrown together in under a day as a mere proof of concept.
 
