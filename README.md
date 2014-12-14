@@ -6,6 +6,6 @@ However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
 
 Created alongside two team members.
 
-Precursor to an iOS app named 'WaveDoc' that is currently in the works.
+Precursor to an iOS app named 'WaveDoc' my brother and I are building that is currently in the works.
 
 
