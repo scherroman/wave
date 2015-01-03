@@ -4,7 +4,7 @@ Ugly code, thrown together in under a day as a mere proof of concept.
 
 However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
 
-Created alongside two team members.
+Created alongside another team member, https://github.com/yvanscher
 
 Precursor to an iOS app named 'WaveDoc' my brother and I are building that is currently in the works.
 
