@@ -6,6 +6,6 @@ However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
 
 Collaborators: <a href = "https://github.com/yvanscher">Yvan Scher</a> Anna Flynn
 
-Precursor to an iOS app 'Airdoc' <a href = "https://github.com/yvanscher">Yvan Scher</a> and I are building.
+Precursor to an iOS app 'Airdoc' Yvan Scher and I are building.
 
 
