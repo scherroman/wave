@@ -4,7 +4,7 @@ Ugly code, thrown together in under a day as a mere proof of concept.
 
 However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
 
-Created alongside another team member, https://github.com/yvanscher
+Collaborators: <a href = "https://github.com/yvanscher">Yvan Scher</a> Anna Flynn
 
 Precursor to an iOS app 'Airdoc' yvanscher and I are building that is currently in the works.
 
