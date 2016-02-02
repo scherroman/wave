@@ -4,7 +4,7 @@ Ugly code, thrown together in under a day as a mere proof of concept.
 
 However, won first place for "Best Hack Potential" at Stony Brook's Unhackaton.
 
-Collaborators: <a href = "github.com/yvan">Yvan Scher</a> Anna Flynn
+Collaborators: <a href = "https://github.com/yvan">Yvan Scher</a> Anna Flynn
 
 Precursor to an iOS app 'Hexlist' Yvan Scher and I are building.
 
